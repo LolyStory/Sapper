@@ -31,7 +31,7 @@ export const Field = ({
     return (
         <div className="field">
             {field.map((fieldRow, Y) => (
-                <Row fieldRow={fieldRow} Y={Y} clickHandler={clickHandler} />
+                <Row fieldRow={fieldRow} Y={Y} clickHandler={clickHandler} key={Y}/>
             ))}
         </div>
     );

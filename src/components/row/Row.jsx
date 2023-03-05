@@ -10,6 +10,7 @@ export const Row = ({ fieldRow, Y, clickHandler }) => (
                 Y={Y}
                 X={X}
                 clickHandler={clickHandler}
+                key={X}
             />
         ))}
     </div>
