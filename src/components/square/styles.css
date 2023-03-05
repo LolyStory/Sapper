@@ -1,0 +1,58 @@
+.square{
+    width: 17px;
+    height: 17px;
+    background: url(../../../public/spite.png) no-repeat;
+    
+	zoom: 2.7;
+	-moz-transform: scale(2.7);
+	-moz-transform-origin: 0 0;
+    
+}
+.square.open{
+    background-position: -17px -50px;
+}
+.square.close{
+    background-position: 0px -50px;
+}
+.square.one{
+    background-position: 0px -67px;
+}
+.square.two{
+    background-position: -17px -67px;
+}
+.square.three{
+    background-position: -34px -67px;
+}
+.square.four{
+    background-position: -51px -67px;
+}
+.square.five{
+    background-position: -68px -67px;
+}
+.square.six{
+    background-position: -85px -67px;
+}
+.square.seven{
+    background-position: -102px -67px;
+}
+.square.eight{
+    background-position: -119px -67px;
+}
+.square.flag{
+    background-position: -34px -50px;
+}
+.square.question{
+    background-position: -51px -50px;
+}
+.square.questionPush{
+    background-position: -68px -50px;
+}
+.square.bomb{
+    background-position: -85px -50px;
+}
+.square.bombExploded{
+    background-position: -102px -50px;
+}
+.square.bombDeactivate{
+    background-position: -119px -50px;
+}

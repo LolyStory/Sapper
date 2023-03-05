@@ -1,0 +1,131 @@
+.timer{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+  
+    height: 23px;
+    background: url(../../../public/spite.png) no-repeat;
+	zoom: 1.7;
+	-moz-transform: scale(1.7);
+	-moz-transform-origin: 0 0;
+}
+
+.timer.first{
+    
+    margin: 0;
+    width: 13px;
+    height: 23px;
+    
+    background-position: 0px 0px;
+}
+
+.timer.tan{
+    margin: 0;
+    width: 13px;
+    height: 23px;
+    
+    background-position: 0px 0px;
+}
+
+.timer.hundred{
+    margin: 0;
+    width: 13px;
+    height: 23px;
+    
+    background-position: 0px 0px;
+}
+
+.timer.hundred.one{
+    background-position: 0px 0px;
+}
+.timer.hundred.two{
+    background-position: -14px 0px;
+}
+.timer.hundred.tree{
+    background-position: -28px 0px;
+}
+.timer.hundred.four{
+    background-position: -42px 0px;
+}
+.timer.hundred.five{
+    background-position: -56px 0px;
+}
+.timer.hundred.six{
+    background-position: -70px 0px;
+}
+.timer.hundred.seven{
+    background-position: -84px 0px;
+}
+.timer.hundred.eight{
+    background-position: -98px 0px;
+}
+.timer.hundred.nine{
+    background-position: -112px 0px;
+}
+.timer.hundred.zero{
+    background-position: -126px 0px;
+}
+
+.timer.first.one{
+    background-position: 0px 0px;
+}
+.timer.first.two{
+    background-position: -14px 0px;
+}
+.timer.first.tree{
+    background-position: -28px 0px;
+}
+.timer.first.four{
+    background-position: -42px 0px;
+}
+.timer.first.five{
+    background-position: -56px 0px;
+}
+.timer.first.six{
+    background-position: -70px 0px;
+}
+.timer.first.seven{
+    background-position: -84px 0px;
+}
+.timer.first.eight{
+    background-position: -98px 0px;
+}
+.timer.first.nine{
+    background-position: -112px 0px;
+}
+.timer.first.zero{
+    background-position: -126px 0px;
+}
+
+.timer.tan.one{
+    background-position: 0px 0px;
+}
+.timer.tan.two{
+    background-position: -14px 0px;
+}
+.timer.tan.tree{
+    background-position: -28px 0px;
+}
+.timer.tan.four{
+    background-position: -42px 0px;
+}
+.timer.tan.five{
+    background-position: -56px 0px;
+}
+.timer.tan.six{
+    background-position: -70px 0px;
+}
+.timer.tan.seven{
+    background-position: -84px 0px;
+}
+.timer.tan.eight{
+    background-position: -98px 0px;
+}
+.timer.tan.nine{
+    background-position: -112px 0px;
+}
+.timer.tan.zero{
+    background-position: -126px 0px;
+}
